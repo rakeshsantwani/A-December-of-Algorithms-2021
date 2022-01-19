@@ -4,14 +4,7 @@
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
-*.py[cod]
-*$py.class
-
-# C extensions
-*.so
-
-# node.js
-/node_modules
+*.py[cod]ules
 package-lock.json
 
 # Distribution / packaging
